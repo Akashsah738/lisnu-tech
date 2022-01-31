@@ -124,6 +124,21 @@ body {
     /* background-color: black; */
 }
 
+.All {
+    display: flex;
+    margin-top: 8rem;
+    height: 100vh;
+}
+
+.digital {
+    margin-top: 6.5rem;
+}
+
+.digital img {
+    display: flex;
+    margin: auto;
+}
+
 .hero-container {
     margin-top: 6.25rem;
     height: 100vh;
