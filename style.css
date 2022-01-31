@@ -442,7 +442,7 @@ ol li {
     margin-left: 1.875rem;
     list-style: none;
     padding: 0.938rem;
-    font-family: cursive;
+    /* font-family: cursive; */
     text-decoration: underline;
     text-decoration-color: red;
     /* border-bottom: 5px; */
